@@ -7,7 +7,7 @@ I am also including the source code for the same.
 To view the webapp through local host follow the given procedure:
 Step1 => Download Xampp for Windows
 Step2 => Copy paste the source code (EndGem Folder) to the htdocs of Xampp.
-Step3 => Then open the Xampp contol panel and start the Apache and Mysql and click on Admin of both. 
+Step3 => Then open the Xampp contol panel and start the Apache and Mysql and click on Admin of both(Apache and mySQL). 
 Step4 => Then click on the follwoing link: http://localhost/EndGem/index.php#
 
 
