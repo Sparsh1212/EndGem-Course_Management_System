@@ -1,0 +1,221 @@
+
+
+
+body{
+font-family: monospace;
+color: black;
+
+background-color: darkgrey;
+
+
+
+}
+div{
+font-size: 22px;
+color: white;    
+}
+
+.MainLogo{
+color: red;
+font-size: 50px;
+
+}
+#form{
+   border:2px solid black;
+   background-color: grey;
+
+}
+.myButton1 {
+
+    padding: 15px 15px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: palevioletred;
+  border: 2px;
+  border-radius: 5px;
+  box-shadow: 0 9px lightsalmon;
+  position: absolute;
+  top: 10px;
+  right: 670px;
+
+}
+.myButton1:hover {background-color: blue}
+
+.myButton1:active {
+  background-color: pink;
+  transform: translateY(4px);
+}
+.myButton2 {
+
+    padding: 15px 10px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: greenyellow;
+  border: 2px;
+  border-radius: 5px;
+  box-shadow: 0 9px lightsalmon;
+  position: absolute;
+  top: 10px;
+  right: 560px;
+
+}
+.myButton2:hover {background-color: blue}
+
+.myButton2:active {
+  background-color: pink;
+  transform: translateY(4px);
+}
+.myButton3 {
+
+    padding: 15px 10px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: orangered;
+  border: 2px;
+  border-radius: 5px;
+  box-shadow: 0 9px lightsalmon;
+  position: absolute;
+  top: 10px;
+  right: 450px;
+
+}
+
+.myButton3:hover {background-color: blue}
+
+.myButton3:active {
+  background-color: pink;
+  transform: translateY(4px);
+}
+.myButton4{
+
+    padding: 15px 10px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: brown;
+  border: 2px;
+  border-radius: 5px;
+  box-shadow: 0 9px lightsalmon;
+  position: absolute;
+  top: 10px;
+  right: 340px;
+
+}
+.myButton4:hover {background-color: blue}
+
+.myButton4:active {
+  background-color: pink;
+  transform: translateY(4px);
+}
+.myButton5 {
+
+    padding: 15px 10px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: green;
+  border: 2px;
+  border-radius: 5px;
+  box-shadow: 0 9px lightsalmon;
+  position: absolute;
+  top: 10px;
+  right: 230px;
+
+}
+.myButton5:hover {background-color: blue}
+
+.myButton5:active {
+  background-color: pink;
+  transform: translateY(4px);
+}
+.myButton6 {
+
+    padding: 15px 10px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: red;
+  border: 2px;
+  border-radius: 5px;
+  box-shadow: 0 9px lightsalmon;
+  position: absolute;
+  top: 10px;
+  right: 120px;
+
+}
+.myButton6:hover {background-color: blue}
+
+.myButton6:active {
+  background-color: pink;
+  transform: translateY(4px);
+}
+.myButton7 {
+
+    padding: 15px 15px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: black;
+  border: 2px;
+  border-radius: 5px;
+  box-shadow: 0 9px lightsalmon;
+  position: absolute;
+  top: 10px;
+  right: 70px;
+  margin: 2px;
+
+}
+.myButton7:hover {background-color: blue}
+
+.myButton7:active {
+  background-color: pink;
+  transform: translateY(4px);
+}
+.myButton8 {
+
+    padding: 15px 15px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: black;
+  border: 2px;
+  border-radius: 5px;
+  box-shadow: 0 7px lightsalmon;
+  position: absolute;
+  top: 10px;
+  right: 20px;
+
+}
+.myButton8:hover {background-color: blue}
+
+.myButton8:active {
+  background-color: pink;
+  transform: translateY(4px);
+}
+.formelement{
+position: absolute;
+left: 20px;
+font-family: monospace;
+
+
+
+}
